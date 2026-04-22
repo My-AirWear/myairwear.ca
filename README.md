@@ -1,5 +1,5 @@
 # myairwear.ca
-Smart wearables AirWear and website MyAirWear.ca for the We Are Air Aware project: BC particulate air pollution public data infrastructure and open toolset. What's in this repo: website code, content, AirWear data ingestion information.
+Website MyAirWear.ca: air pollution public data infrastructure for the We Are Air Aware project open toolset. Used for community logging of black carbon (soot) fine and ultrafine particulate air pollution. What's in this repo: website code, content, AirWear data ingestion information.
 
 
 ## License
